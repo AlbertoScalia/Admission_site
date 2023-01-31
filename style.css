@@ -1,0 +1,71 @@
+body{
+    background-image: url("immagini/background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+main{
+    background-color: rgba(0, 0, 0, 0.584);
+    margin: 3% 17% 3% 17%;
+    padding: 70px;
+    border-radius: 20px;
+}
+
+#img-header  {
+    width: 200px;
+    margin: 10px auto;
+    display: block;
+}
+
+    h1{
+    color:#00dd00;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+#button {
+    margin: 15px auto;
+    text-align: center;
+    background-color: #00dd00; 
+    padding: 2px;
+}
+
+div{
+    color:#ffffff;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+.descrizione{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#carica1 {
+    background-color: #f5b453; 
+    width: 30%; 
+    height: 10px; 
+    padding: 12px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+#carica2 {
+    background-color: #00dd00; 
+    width: 60%; 
+    height: 10px; 
+    padding: 12px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+#carica3 {
+    background-color: #be4141; 
+    width: 15%; 
+    height: 10px; 
+    padding: 12px;
+    border-radius: 10px;
+}
